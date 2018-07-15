@@ -1,0 +1,1 @@
+"./soc/f28377s.obj" "../28377S_RAM_lnk.cmd" -llibc.a 
